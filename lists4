@@ -1,0 +1,4 @@
+show1=[]
+show_list=["HxH","One piece","Death Note","Parasyte",show1]
+show_list.append(input("What show do you like?"))
+print(show_list)
