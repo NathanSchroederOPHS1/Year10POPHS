@@ -1,0 +1,5 @@
+print("Tv Programmes")
+print("  ")
+show1= str(input("Enter a show that you like>>>"))
+show_list=["Boyz n the hood","Breaking Bad","Prison Break","Naruto",show1]
+print(show_list)
